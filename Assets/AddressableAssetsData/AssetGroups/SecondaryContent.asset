@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: SecondaryContent
+  m_EditorClassIdentifier: 
+  m_GroupName: SecondaryContent
+  m_Data:
+    m_SerializedData: []
+  m_GUID: b75d9582c28c46545aaccf32960433db
+  m_SerializeEntries:
+  - m_GUID: 0a0916cc14946da4194c6975fb3ae79b
+    m_Address: Assets/eldar_iybraesil_direavengers03.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: 0a0916cc14946da4194c6975fb3ae79b, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 0a0916cc14946da4194c6975fb3ae79b, type: 3}
+  - m_GUID: ee1f63683f8d50e4d97a64c8d1caaba3
+    m_Address: Assets/e0xu5s12xtk81.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: ee1f63683f8d50e4d97a64c8d1caaba3, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: ee1f63683f8d50e4d97a64c8d1caaba3, type: 3}
+  - m_GUID: 23318805e66ff114291c447540cdf83d
+    m_Address: Assets/PXL_20210607_202114462.PORTRAIT.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    m_MainAsset: {fileID: 2800000, guid: 23318805e66ff114291c447540cdf83d, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: 23318805e66ff114291c447540cdf83d, type: 3}
+  - m_GUID: 6643e670f6e67b945972ff4e31fb4d2e
+    m_Address: Assets/01.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 9fc0d4010bbf28b4594072e72b8655ab
+    m_Address: Assets/Scenes/SampleScene.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: ad95ce58b7c20fa4d8dcd889799b1da6, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 84fbed1108163034bb03dff86423f0aa, type: 2}
+    - {fileID: 11400000, guid: 69460f4d2f2beb44f8297e91203a4994, type: 2}
+    - {fileID: 11400000, guid: e4c5db430c1938d46824d2b918b3bf97, type: 2}
